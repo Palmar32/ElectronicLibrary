@@ -1,0 +1,15 @@
+# CLion и JetBrains
+.idea/
+cmake-build-*/
+
+# Исполняемые файлы
+ElectronicLibrary
+ElectronicLibrary.exe
+
+# База данных SQLite
+library.db
+library.db-shm
+library.db-wal
+
+# macOS
+.DS_Store
